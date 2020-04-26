@@ -7,7 +7,7 @@
     <string name="action_menu_delete">Delete</string>
     <string name="cad_edit">Edit</string>
     <string name="cad_delete">Delete</string>
-    <string name="tittle_activity_add_new">Form Handphone</string>
+    <string name="title_activity_add_new">Form Handphone</string>
     <string name="action_settings">Settings</string>
-    <string name="tittle_activity_detail_handphone">Detail Handphone</string>
+    <string name="title_activity_detail_handphone">Detail Handphone</string>
 </resources>

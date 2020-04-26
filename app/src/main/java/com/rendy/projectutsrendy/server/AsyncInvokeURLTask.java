@@ -26,7 +26,7 @@ public class AsyncInvokeURLTask extends AsyncTask<Void, Void, String> {
     private ProgressDialog dialog;
     public boolean showdialog = false;
     public String message ="Proses Data";
-    public String url_server = "http://localhost/xphone";
+    public String url_server = "http://10.0.2.2/xphone/";
     public Context applicationContext;
     public static interface OnPostExecuteListener{
         void onPostExecute(String result);
