@@ -20,8 +20,7 @@
             android:layout_marginBottom="30dp"
             android:ems="10"
             android:hint="nama produk"
-            android:inputType="textPersonName"
-            android:text="Name" />
+            android:inputType="textPersonName"/>
 
         <TextView
             android:id="@+id/textview3"
@@ -36,7 +35,6 @@
             android:layout_marginBottom="30dp"
             android:ems="10"
             android:hint="harga produk"
-            android:inputType="textPhonetic"
-            android:text="Name" />
+            android:inputType="textPhonetic"/>
     </LinearLayout>
 </ScrollView>

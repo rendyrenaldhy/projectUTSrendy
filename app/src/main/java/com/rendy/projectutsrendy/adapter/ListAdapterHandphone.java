@@ -49,6 +49,7 @@ public class ListAdapterHandphone extends BaseAdapter implements Filterable {
         Handphone hp = filterd.get(position);
         TextView textNama = (TextView) convertView.findViewById(R.id.text_nama);
         TextView textHarga = (TextView) convertView.findViewById(R.id.text_harga);
+        textNama.setText(hp.getNama());
         textHarga.setText(hp.getHarga());
         return convertView;
     }
